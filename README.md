@@ -16,4 +16,4 @@
 [CLICK ME](https://budget-bd.netlify.app/)
 
 ## Let's take a look!
-![alt text](images/siteSS.jpg)
+![alt text](images/siteSS.png)
