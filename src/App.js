@@ -13,6 +13,7 @@ const App = () => {
             <div className='container'>
                 <div className="app-wrapper">
                     <Header />
+                    <h3>re install vs code </h3>
                     <Balance />
                     <AddTransaction />
                     <IncomeList />
